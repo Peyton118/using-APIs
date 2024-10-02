@@ -1,0 +1,45 @@
+.button-cont {
+    display: flex;
+    justify-content: center;
+}
+
+.randomize-btn {
+    height: 10vh;
+    width: 30%;
+    background-color: brown;
+    color: white;
+    height: 100pt;
+}
+
+.body{
+    background-color: white;
+}
+
+.btn-words {
+    font-size: 23pt;
+    
+}
+
+.imageHolder {
+    background-color: lightsalmon;
+    height: 400pt;
+    width: 400pt;
+    margin-top: 5vh;
+    margin-left: 29vw;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.cat-image {
+    margin-top: 10%;
+    width: 80%;
+    height: 60vh;
+}
+
+.imageHolder {
+    display: flex;
+    justify-content: center;
+}
